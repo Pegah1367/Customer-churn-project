@@ -55,7 +55,7 @@ This project introduces a **profit-optimized churn prediction system** that:
 ---
 
 ## 🏗️ Architecture (Full-Stack)
-ata Source (HuggingFace Telco Dataset)
+Data Source (HuggingFace Telco Dataset)
 ↓
 Data Cleaning & Feature Engineering
 ↓
