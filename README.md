@@ -8,6 +8,7 @@ you can use it on both mobile and laptop
 dataset:
 https://huggingface.co/datasets/aai510-group1/telco-customer-churn
 
+**Project Goal:** Build a retention targeting framework that optimizes churn intervention thresholds based on financial ROI and customer lifetime value (LTV) impact, rather than predictive accuracy alone. On the validation set, the baseline churn rate is 26.54%, and the selected threshold achieves a high-risk recall of 86.10%. Assuming a 20% retention success rate, the expected churn after intervention decreases to 21.75%, representing a 4.80% absolute reduction. At a threshold of 0.74, the retention program delivers a 98.14% ROI, with $12,760 in revenue saved against $6,440 in incentive costs. From an LTV perspective, $769,589 of total LTV is at risk, of which an expected $131,027 is preserved. These results are based on business assumptions of a $20 incentive per targeted customer and $200 in revenue saved per successfully retained customer.
 
 
 # 📊 Customer Churn Prediction – Full-Stack Machine Learning Project
