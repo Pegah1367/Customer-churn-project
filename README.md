@@ -173,14 +173,7 @@ It reflects **industry-grade applied AI**, not just model training.
 - Advanced explainability dashboards (SHAP)
 - LightGBM / CatBoost benchmarking
 
----
 
-## 📬 Contact
-This project is suitable for roles in:
-- Applied Machine Learning
-- Data Science
-- AI-Driven Business Analytics
-- Risk & Retention Modeling
 
 Feel free to explore the repository or reach out via GitHub / LinkedIn.
 
